@@ -1,2 +1,2 @@
-rootProject.name = "blockchain-miner"
+rootProject.name = "cryptocurrency-miner"
 include("app")

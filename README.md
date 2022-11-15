@@ -1,1 +1,1 @@
-# blockchain-miner
+# cryptocurrency-miner
